@@ -1,3 +1,3 @@
-set GOOS="linux"
-set GOARCH="amd64"
+export GOOS="linux"
+export GOARCH="amd64"
 make release-server
