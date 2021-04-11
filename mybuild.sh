@@ -1,3 +1,3 @@
 export GOOS="linux"
 export GOARCH="amd64"
-make release-server
+make release-all
